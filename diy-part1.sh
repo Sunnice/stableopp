@@ -26,6 +26,8 @@ rm -rf package/lean/rclone-ng
 rm -rf package/lean/rclone-webui-react
 rm -rf package/lean/rclone
 
+rm -rf package/lean/luci-app-v2ray-server
+
 rm -rf feeds/packages/net/smartdns
 svn co https://github.com/Lienol/openwrt-packages/trunk/net/smartdns package/net/smartdns	
 
